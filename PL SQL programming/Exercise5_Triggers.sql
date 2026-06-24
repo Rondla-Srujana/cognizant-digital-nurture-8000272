@@ -1,0 +1,2 @@
+-- Exercise 5: Triggers
+-- UpdateCustomerLastModified, LogTransaction, CheckTransactionRules.

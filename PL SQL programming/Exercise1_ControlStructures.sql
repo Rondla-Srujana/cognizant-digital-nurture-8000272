@@ -1,0 +1,2 @@
+-- Exercise 1: Control Structures
+-- Scenario 1,2,3 solutions separated here.

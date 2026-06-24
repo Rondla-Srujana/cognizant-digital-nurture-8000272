@@ -1,0 +1,2 @@
+-- Exercise 6: Cursors
+-- GenerateMonthlyStatements, ApplyAnnualFee, UpdateLoanInterestRates.
